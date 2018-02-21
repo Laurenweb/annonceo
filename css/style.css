@@ -1,0 +1,53 @@
+.my_titles {
+   color: #a18131;
+}
+
+.my_font {
+   font-family: 'Architects Daughter', cursive;
+}
+
+.pad {
+   padding: 25px;
+}
+
+.color-nav {
+   background-color: 
+}
+
+.font-color {
+   color: white;
+}
+
+.strong {
+   font-weight: bold;
+}
+
+.cadre {
+   border: 1px solid #DEB887;
+   margin: 10px;
+}
+
+.marge_cadre {
+   margin-bottom: 10px;
+}
+
+.prix {
+   font-size: 25px;
+}
+
+.my_glyph {
+   font-size: 20px;
+}
+
+.nb_annonces {
+   font-size: 18px;
+}
+
+.avatar {
+    position: relative;
+    bottom: 25px;
+}
+
+.clear {
+   clear: both;
+}
