@@ -9,6 +9,6 @@ $options = [
 // $pdo = new PDO('mysql:host=localhost;dbname=annonceo', 'root', '', $options);
 
 // Site en ligne (via hébergeur 1&1)
-$pdo = new PDO('mysql:host=db681868236.db.1and1.com;dbname=db681868236', 'dbo681868236', 'Annonceo3', $options);
+$pdo = new PDO('mysql:host=db728190333.db.1and1.com;dbname=db728190333', 'dbo728190333', 'Princey54', $options);
 
 ?>
